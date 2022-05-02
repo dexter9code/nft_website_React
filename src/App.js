@@ -1,8 +1,10 @@
+import {Features, SectionWrapper, Download } from "./components/index";
+
 const App = () => {
   return (
-    <div className="App">
-      <h1 class="text-3xl font-bold underline">Nft ShowCase</h1>
-    </div>
+    <>
+    <SectionWrapper/>
+    </>
   );
 };
 
