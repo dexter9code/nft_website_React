@@ -43,7 +43,10 @@ const SectionWrapper = ({
             {description}
           </p>
           {showBtn && (
-            <Button assetUrl={assets.expo} link="deployed market place" />
+            <Button
+              assetUrl={assets.expo}
+              link="https://www.youtube.com/watch?v=3Ypl8ZSIIsU&list=RD3Ypl8ZSIIsU&start_radio=1e"
+            />
           )}
         </div>
         <div className={`flex-1 ${styles.flexCenter} p-8 sm:px-0`}>

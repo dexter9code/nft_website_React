@@ -11,9 +11,6 @@ const Download = () => {
           <h1 className={`${styles.h1Text} ${styles.blackText}`}>
             Download the source Code
           </h1>
-          <p className={`${styles.pText} ${styles.blackText}`}>
-            Get the full source form GitHub
-          </p>
         </div>
         <button className={`${styles.btnPrimary}`}>Source Code </button>
         <div className={styles.flexCenter}>
