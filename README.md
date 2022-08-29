@@ -14,3 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## About
 
 Simple website made with React and Tailwind Css 
+
+## Sample
+
+<img src='https://github.com/dexter9code/nft_website_React/blob/other/nftwebsite.png' alt='image' width='100%' height='500'  >
